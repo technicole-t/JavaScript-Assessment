@@ -1,0 +1,26 @@
+{
+  "name": "FT_CORE_BLOCK_REVIEW_1",
+  "version": "1.0.0",
+  "description": "For this block review, you have several specifications which need to be completed. You are expected to use full TDD in order to demonstrate your understanding of the questions and of good TDD practices. Good luck!",
+  "main": "challenge1.js",
+  "scripts": {
+    "test": "mocha spec"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "sinon": "^7.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technicole-t/fun-review-2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/technicole-t/fun-review-2/issues"
+  },
+  "homepage": "https://github.com/technicole-t/fun-review-2#readme"
+}
